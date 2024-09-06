@@ -1,0 +1,92 @@
+$ history
+    1  git init 
+	--to initialize git in folder.It will convert normal folder into local repositiory
+    2  git status
+      	--to check the status of untracted files
+    3  git status
+    4  git add .
+ 	--to add the untracked file into staging area
+    5  git status
+    6  git log
+	--to check logs like auther date and comments added at the time of add command
+    7  git status
+    8  git diff
+	
+    9  git diff Index\ file.txt
+   10  git status
+   11  git diff
+   12  git diff
+   13  git diff
+   14  git commit -m"index file created"
+   15  git config --global user.email "pournima.mishra53@gmail.com"
+   16  git config --global user.name "Pournima"
+   17  git commit -m"index file created"
+   18  git diff
+   19  git log
+   20  git status
+   21  git add .
+   22  git status
+   23  git log
+   24  git status
+   25  git push
+   26    git remote add origin https://github.com/pournima1/devOps1.git
+   27  git remote add origin https://github.com/pournima1/devOps1.git
+   28  git push -u origin master
+   29  git push -u origin master
+   30  git add .
+   31  git push -u origin master
+   32  git push
+   33  git status
+   34  git push
+   35  git commit
+   36  git commit -m"login commit"
+   37  git push
+   38  git commit -m"index modified by pournima 2"
+   39  git add .
+   40  git add .
+   41  git commit -m"index modified by pournima 2"
+   42  git push
+   43  git branch fromtend
+   44  git branch
+   45  git checkout fromtend
+   46  git init
+   47  which git
+   48  git --version
+   49  git cnfig
+   50  git config
+   51  git config --list"
+
+
+   52  git config --list
+   53  git config --list
+   54  makdir mumbai
+   55  mkdir mumbai
+   56  ls
+   57  cd mumbai
+   58  git init
+   59  cat >mumbai1
+   60  git status
+   61  git add .
+   62  git status
+   63  git commit -m "My first commit"
+   64  git status
+   65  git log
+   66  git show 3c36ffa35d0d7e1975e5eac5f49e9c65cb713f61
+	--to show code change of that commit id
+   67  git remote add origin https://github.com/pournima1/centralGit.git
+	--to add central repo to local repo
+   68  git push -u origin master
+	--to push code to github master branch
+   69  git push origin master
+   70  cat >mumbai1
+	--it will create new mumbai1 file and write contents
+   71  git status
+   72  git add mumbai1
+   73  git status
+   74  git push -u origin master
+   75  git commit -m "my 2ndline"
+   76  git push -u origin master
+   77  git log
+   78* git show 3c36ffa35d0d7e1975e5eac5f49e9c65cb713f61\\\
+   79  git show 638a82e42b7c1c337045b7615cf62ae16fbba338
+   80  history
